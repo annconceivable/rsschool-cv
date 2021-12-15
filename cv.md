@@ -9,3 +9,12 @@ For the last several years I was looking at code from another angle - as a suppo
 * HTML basic
 * CSS basic
 * Git basic
+## Work experience
+### Jul, 2012 till now - PREMIER SUPPORT ENGINEER/PREMIER SUPPORT ESCALATION ENGINEER, MSEXCHANGE SERVER/EXCHANGE ONLINE
+* Providing reliable technical solutions to Premier customers (major companies in EMEA).
+* Collaborating closely with both internal and external stakeholders locally and outside the country for fastest resolution and exceptional service experience.
+* Filing technical bugs and driving escalations to Product Group.
+### Nov, 2011 – Jul, 2012 - STRATEGIC PARTNERSHIP MANAGER
+* Managing ongoing business relationship with Russian and foreign key partners.
+* Buying digital content and signing agreements with new partners, participating in negotiations.
+* Working closely with Legal department (brand new agreements, addendums), managing legal and budgeting documents, managing general paperwork.
