@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Lato&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    background: linear-gradient(
+        to bottom,
+        #454a4d 0%,
+        #454a4d 17%,
+        #ffffff 17%,
+        #ffffff 100%
+    );
+    font-family: 'Lato', sans-serif;
+}
+.wrapper {
+    display: flex;
+}
+.aside {
+    box-sizing: border-box;
+    text-align: center;
+    height: 900px;
+    width: 300px;
+    margin: 40px 30px 30px 30px;
+    background-color:#fcf1ef;
+}
+.picture-block {
+    margin-top: 40px;
+}
+.photo {
+    border-radius: 50%;
+}
+
+.title {
+    font-family: 'Barlow Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    margin-top: 20px;
+}
+.capitalized {
+    font-family: 'Barlow Condensed', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+}
+
+.rose {
+    color: #fcf1ef;
+}
+
+.contacts {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contacts img {
+    width: auto;
+    margin-bottom: -7px;
+}
+
+.contactinfo {
+    margin-left: 10px;
+}
+
+hr {
+    margin: 20px 30px;
+    border-top: 2px solid #454a4d;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    margin: 20px 0px;
+}
+
+.socials {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.social-icon {
+    margin-right: 4px;
+    text-decoration: none;
+}
+
+.social-icon:hover {
+    position: relative;
+    bottom: 10px;
+    transition: bottom 0.5s ease-in;
+}
+
+.main {
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 700px;
+}
+
+.title.rose {
+    margin: 60px 40px 60px 0px;
+}
+
+.companyname {
+    list-style-type: none;
+}
+
+.duties {
+    list-style-type: disc;
+}
+
+.inbold {
+    font-weight: 800;
+}
