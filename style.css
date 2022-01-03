@@ -42,7 +42,8 @@ body {
 
 .nav-list {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .nav-item {
@@ -51,8 +52,11 @@ body {
 }
 
 .nav-link {
+    padding: 0 20px;
+    line-height: 20px;
     text-decoration: none;
     color: #ffffff;
+    transition: 0.3s;
 }
 
 .wrapper {
@@ -60,9 +64,8 @@ body {
 }
 
 .aside {
-    height: 900px;
-    width: 300px;
-    margin: 40px 30px 30px 30px;
+    width: 25%;
+    margin: 40px 30px 30px 40px;
     text-align: center;
     background-color: #fcf1ef;
 }
@@ -130,14 +133,15 @@ li {
     text-decoration: none;
 }
 
-.social-icon:hover {
+.social-icon:hover,
+.nav-link:hover {
     position: relative;
     bottom: 10px;
     transition: bottom 0.5s ease-in;
 }
 
 .main {
-    width: 700px;
+    width: 75%;
     margin-top: 40px;
     margin-left: 40px;
 }
@@ -156,4 +160,17 @@ li {
 
 .inbold {
     font-weight: 800;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+date {
+    margin: 0 40px;
+    vertical-align: super;
+    font-weight: bold;
 }
