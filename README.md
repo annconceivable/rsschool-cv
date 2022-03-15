@@ -1,1 +1,1 @@
-https://annconceivable.github.io/rsschool-cv/
+https://annconceivable.github.io/rsschool-cv/cv
