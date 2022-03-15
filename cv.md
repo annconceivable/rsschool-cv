@@ -20,6 +20,10 @@ To summarize all this - I'm ready to start my journey as a Front-End Developer a
 * Managing ongoing business relationship with Russian and foreign key partners.
 * Buying digital content and signing agreements with new partners, participating in negotiations.
 * Working closely with Legal department (brand new agreements, addendums), managing legal and budgeting documents, managing general paperwork.
+### Jul, 2009 – Nov, 2011 - Coach / Support Leve2 Team Lead
+* Ramping up newly hired support engineers.
+* Managing a team of experienced Level 2 engineers.
+* Handling customer escalations and working in order to resolve customer issues.
 ## Education
 * Saint Petersburg State University 2003 - 2008 \
 School of International Relations \
