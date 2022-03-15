@@ -1,6 +1,6 @@
 # Anna Belchenko
 ## Contacts
-Phone: +79099606067 \
+Phone: +79099606067
 Email: nuxler@gmail.com
 Github: [annconceivable](https://github.com/annconceivable)
 ## About me
